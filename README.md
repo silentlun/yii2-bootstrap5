@@ -10,14 +10,6 @@ This is the Twitter Bootstrap extension for [Yii framework 2.0](http://www.yiifr
 and plugins in terms of Yii widgets, and thus makes using Bootstrap components/plugins
 in Yii applications extremely easy.
 
-For license information check the [LICENSE](LICENSE.md)-file.
-
-Documentation is at [docs/guide/README.md](docs/guide/README.md).
-
-[![Latest Stable Version](https://poser.pugx.org/yiisoft/yii2-bootstrap5/v/stable.png)](https://packagist.org/packages/yiisoft/yii2-bootstrap5)
-[![Total Downloads](https://poser.pugx.org/yiisoft/yii2-bootstrap5/downloads.png)](https://packagist.org/packages/yiisoft/yii2-bootstrap5)
-[![Build Status](https://github.com/yiisoft/yii2-bootstrap5/workflows/build/badge.svg)](https://github.com/yiisoft/yii2-bootstrap5/actions)
-
 
 Installation
 ------------
@@ -27,7 +19,7 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-php composer.phar require --prefer-dist silentlun/yii2-bootstrap5
+php composer require --prefer-dist silentlun/yii2-bootstrap5
 ```
 
 or add
